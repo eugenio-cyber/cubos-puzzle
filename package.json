@@ -1,8 +1,8 @@
 {
-  "homepage": "https://eugenio-cyber.github.io/reactjs-estados-cubos-puzzle/",
-  "name": "cubospuzzle",
+  "homepage": "https://eugenio-cyber.github.io/reactjs-cubos-puzzle/",
+  "name": "reactjs-cubos-puzzle",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
