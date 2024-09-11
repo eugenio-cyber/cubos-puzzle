@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-estados-cubos-puzzle/static/css/main.1a29ef9a.css",
-    "main.js": "/reactjs-estados-cubos-puzzle/static/js/main.8927e0c7.js",
-    "static/media/card-back.png": "/reactjs-estados-cubos-puzzle/static/media/card-back.a9f12982dab71372ca0a.png",
-    "static/media/htmlcss.png": "/reactjs-estados-cubos-puzzle/static/media/htmlcss.24df4f62493b38922231.png",
-    "static/media/react.png": "/reactjs-estados-cubos-puzzle/static/media/react.8d24e73eedd4c19e44a9.png",
-    "static/media/netlify.png": "/reactjs-estados-cubos-puzzle/static/media/netlify.91414e85772f27c024ae.png",
-    "static/media/heroku.png": "/reactjs-estados-cubos-puzzle/static/media/heroku.8d4dd40a00f11973139c.png",
-    "static/media/nodejs.png": "/reactjs-estados-cubos-puzzle/static/media/nodejs.d8a80bdb629299e0d8aa.png",
-    "static/media/javascript.png": "/reactjs-estados-cubos-puzzle/static/media/javascript.de727adf89a242b83ee9.png",
-    "index.html": "/reactjs-estados-cubos-puzzle/index.html",
-    "main.1a29ef9a.css.map": "/reactjs-estados-cubos-puzzle/static/css/main.1a29ef9a.css.map",
-    "main.8927e0c7.js.map": "/reactjs-estados-cubos-puzzle/static/js/main.8927e0c7.js.map"
+    "main.css": "/reactjs-cubos-puzzle/static/css/main.17126335.css",
+    "main.js": "/reactjs-cubos-puzzle/static/js/main.8f15900d.js",
+    "static/media/card-back.png": "/reactjs-cubos-puzzle/static/media/card-back.a9f12982dab71372ca0a.png",
+    "static/media/htmlcss.png": "/reactjs-cubos-puzzle/static/media/htmlcss.24df4f62493b38922231.png",
+    "static/media/react.png": "/reactjs-cubos-puzzle/static/media/react.8d24e73eedd4c19e44a9.png",
+    "static/media/netlify.png": "/reactjs-cubos-puzzle/static/media/netlify.91414e85772f27c024ae.png",
+    "static/media/heroku.png": "/reactjs-cubos-puzzle/static/media/heroku.8d4dd40a00f11973139c.png",
+    "static/media/nodejs.png": "/reactjs-cubos-puzzle/static/media/nodejs.d8a80bdb629299e0d8aa.png",
+    "static/media/javascript.png": "/reactjs-cubos-puzzle/static/media/javascript.de727adf89a242b83ee9.png",
+    "index.html": "/reactjs-cubos-puzzle/index.html",
+    "main.17126335.css.map": "/reactjs-cubos-puzzle/static/css/main.17126335.css.map",
+    "main.8f15900d.js.map": "/reactjs-cubos-puzzle/static/js/main.8f15900d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a29ef9a.css",
-    "static/js/main.8927e0c7.js"
+    "static/css/main.17126335.css",
+    "static/js/main.8f15900d.js"
   ]
 }
